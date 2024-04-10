@@ -1,0 +1,36 @@
+h1{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200;
+    text-align: center;
+    font-weight: bold;
+}
+ h3{
+    background-color: greenyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+ }
+ p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ .destacados{
+    color: blueviolet;
+    font-style: italic;
+ }
+
+ #caja{
+    background-color: rgb(174, 117, 227);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 10px solid rgb(123, 4, 123);
+    box-sizing: border-box;
+    margin-left: 200px;
+ }
