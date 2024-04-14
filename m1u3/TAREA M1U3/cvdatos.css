@@ -1,4 +1,31 @@
-h2{
-    background-color: blueviolet;
+div {
+    text-align: right;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    background-color: rgb(183, 24, 195);
     text-align: center;
+    border-radius: 10px;
+    font-size: 50px;
+}
+
+.bordes {
+    font-size: 30px;
+    background: rgb(246, 63, 251);
+    background: radial-gradient(circle, rgba(246, 63, 251, 1) 0%, rgba(130, 12, 156, 0.8184523809523809) 100%);
+    width: 700px;
+    height: 300px;
+    padding-top: 20px;
+    box-shadow: 0 0 50px rgb(64, 4, 64);
+    border-radius: 20px;
+}
+
+.nube {
+    color: rgb(88, 2, 88);
+    font-size: 200px;
+    float: right;
 }

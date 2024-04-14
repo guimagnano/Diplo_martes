@@ -1,3 +1,7 @@
+div{
+   text-align: center;
+}
+
 h1{
     color: blueviolet;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -34,3 +38,4 @@ nav{
     box-sizing: border-box;
     margin-left: 200px;
  }
+
