@@ -1,0 +1,31 @@
+.contenedor {
+    width: max-content;
+    height: 400px;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    align-items:flex-start;
+    align-content: center;
+    color: white;
+    border: 5px solid black;
+   
+    
+}
+
+.item {
+    width: 150px;
+    height: 150px;
+    font-size: 30px;
+    text-align: center;
+    align-content: center;
+}
+
+#rojo{
+    background-color: red;
+}
+#azul{
+    background-color: blue;
+}
+#verde{
+    background-color: green;
+}
